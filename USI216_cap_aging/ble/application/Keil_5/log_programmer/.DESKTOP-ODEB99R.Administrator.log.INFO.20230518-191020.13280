@@ -1,0 +1,13 @@
+Log file created at: 2023/05/18 19:10:20
+Running on machine: DESKTOP-ODEB99R
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0518 19:10:20.517210  3200 main.cpp:74] console version:1.2.26.0315
+I0518 19:10:20.556108  3200 cjLinkAgency.cpp:68] update Agency,product type: 5
+I0518 19:10:20.556108  3200 cjLinkAgency.cpp:100] Agency null
+I0518 19:10:20.556108  3200 cmdlineserver.cpp:1052] Programmer start
+I0518 19:10:20.556108  3200 cmdlineserver.cpp:952] called setFlashSize: startaddr:16777216 size:1024
+I0518 19:10:20.556108  3200 cmdlineserver.cpp:182] product type: 0
+I0518 19:10:20.556108  3200 cjLinkAgency.cpp:68] update Agency,product type: 0
+I0518 19:10:20.557106  3200 cjLinkAgency.cpp:80] update Agency:0
+I0518 19:10:20.557106  3200 gdbinFileOperate.cpp:490] not security mode
+I0518 19:10:20.571101  3200 cmdlineserver.cpp:1114] Programmer finished

@@ -1,0 +1,22 @@
+Log file created at: 2023/05/20 11:12:03
+Running on machine: DESKTOP-ODEB99R
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0520 11:12:03.631045  5460 main.cpp:396] encrypt sign version:1.2.26.0315
+I0520 11:12:05.077035  5460 fw_encrypt_signature.cpp:151] firmware_key_path: F:\project\Maxeye\check_1F\USI216_cap_issue\image\application\..\..\key_216\firmware.key
+I0520 11:12:05.077035  5460 fw_encrypt_signature.cpp:184] sign_key_path: F:\project\Maxeye\check_1F\USI216_cap_issue\image\application\..\..\key_216\sign.key
+I0520 11:12:05.077035  5460 fw_encrypt_signature.cpp:185] sign_pub_key_path: F:\project\Maxeye\check_1F\USI216_cap_issue\image\application\..\..\key_216\sign_pub.key
+I0520 11:12:05.077035  5460 fw_encrypt_signature.cpp:231] succeed LoadSignatureKeyPair
+I0520 11:12:05.079438  5460 fw_encrypt_signature.cpp:333] inStr:0x01000000
+I0520 11:12:05.079438  5460 fw_encrypt_signature.cpp:342] out:16777216
+I0520 11:12:05.079438  5460 fw_encrypt_signature.cpp:333] inStr:0x01000000
+I0520 11:12:05.079438  5460 fw_encrypt_signature.cpp:342] out:16777216
+I0520 11:12:05.079438  5460 fw_encrypt_signature.cpp:333] inStr:1024
+I0520 11:12:05.079438  5460 fw_encrypt_signature.cpp:342] out:1024
+I0520 11:12:05.079438  5460 main.cpp:505] called setFlashSize: startaddr:16777216 size:1024
+I0520 11:12:05.079438  5460 fw_encrypt_signature.cpp:333] inStr:0
+I0520 11:12:05.079438  5460 fw_encrypt_signature.cpp:342] out:0
+I0520 11:12:05.079438  5460 main.cpp:519] product type: 0
+I0520 11:12:05.079946  5460 gdbinFileOperate.cpp:186] afterbuild bin format file
+I0520 11:12:05.079946  5460 fw_encrypt_signature.cpp:244] firmware_path: F:\project\Maxeye\check_1F\USI216_cap_issue\image\application\\fw_merge\oppo_pencil_3in1_1.1.1F_Build230520_goodix.bin
+I0520 11:12:05.079946  5460 fw_encrypt_signature.cpp:333] inStr:0x01000000
+I0520 11:12:05.080941  5460 fw_encrypt_signature.cpp:342] out:16777216
